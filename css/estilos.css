@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+ 
+.cabecera {
+    background-color: #dd8d16;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+ 
+.contenido {
+    max-width: 800px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: white;
+}
+ 
+img {
+    max-width: 100%;
+    height: auto;
+}
+ 
+.pie {
+    text-align: center;
+    padding: 15px;
+    background-color: #dddddd;
+}
+a:hover {
+    font-weight: bold;
+    color: chartreuse;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.aviso {
+    text-align: center;
+    background-color: crimson;
+    color: black;
+    padding: 10%;
+    width: 30%;
+    border-radius: 10px;
+    margin: 5%;
+    margin-left: 25%;
+}
